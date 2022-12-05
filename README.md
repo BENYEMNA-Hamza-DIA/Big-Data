@@ -17,7 +17,7 @@ On crée un utilisateur central à partir de l'administrateur. On créer toute n
 - PostegreSQL
 - Algèbre relationnelle
 - Fragmentation des données (horizontale et verticale)
-- VueS matérialisées
+- Vues matérialisées
 - Réplication des données
 - Triggers
 - Transaction concurrentielles
