@@ -1,5 +1,5 @@
-# NoSQL
-Création de tables avec Oracle et Postegresql
+# Big Data
+Création et gestion de bases de données réparties
 
 # Contexte
 
